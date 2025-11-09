@@ -1,3 +1,18 @@
+Examples:
+
+Input: arr[] = [2, 7, 6, 1, 4, 5], k = 3
+Output: 4
+Explanation: The subarray [7, 6, 1, 4] has sum = 18, which is divisible by 3.
+
+Input: arr[] = [-2, 2, -5, 12, -11, -1, 7], k = 3
+Output: 5
+Explanation: The subarray [2, -5, 12, -11, -1], has sum = -3, which is divisible by 3.
+
+Input: arr[] = [1, 2, -2], k = 5
+Output: 2
+Explanation: The subarray is [2, -2] with sum = 0, which is divisible by 5.
+===============================================================================================================
+    
 import java.io.*;
 import java.util.*;
 
